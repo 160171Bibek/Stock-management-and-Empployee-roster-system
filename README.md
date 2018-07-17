@@ -1,5 +1,5 @@
 Work on a real-world project from a client.
-
+yes
 Details of your client’s requirements
 A 2-page detailed description of your real-world project specifications should be made available to your lecturer by the start of week 2
 
