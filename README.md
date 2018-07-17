@@ -1,0 +1,2 @@
+# ISPM1
+Project Management Plan (PMP) and Software Requirement Specification (SRS) report requirements (see unit outline for weighting of marks and due dates for this activity) A PMP is used to manage and monitor the team by the team leaders, thus providing clear guidelines for responsibilities of team members. You may use the template provided in Section 2.4 while writing the PMP &amp; SRS but restrict the content to expectations specified here: 
