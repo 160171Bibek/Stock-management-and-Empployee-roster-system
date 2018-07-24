@@ -3,13 +3,12 @@ yes
 Details of your client’s requirements
 A 2-page detailed description of your real-world project specifications should be made available to your lecturer by the start of week 2
 
-
 Assignment 1
 Project Management Plan (PMP) and Software Requirement Specification (SRS) report requirements (see unit outline for weighting of marks and due dates for this activity) A PMP is used to manage and monitor the team by the team leaders, thus providing clear guidelines for responsibilities of team members. You may use the template provided in Section 2.4 while writing the PMP & SRS but restrict the content to expectations specified here: 
 
 Table of Contents 
 
-1. Introduction 
+ 1. Introduction 
  
  1.1 Project Overview 
  
@@ -20,15 +19,15 @@ Table of Contents
  1.4 Definitions and Acronyms 
 
 
-2. Project Organization 
+ 2. Project Organization 
 
-2.1 Process Model: Agile 
+ 2.1 Process Model: Agile 
  
  2.1.1 Project Planning 
  
- 2.1.2 Requirements Analysis: Use SCRUM features such as Product Backlog Items written in           User Story form, Sprint Tasks (this section should be in detail as it is the SRS. Each item and sub item must be indexed so that it can be referenced again in Assignment 2 while Software Design Documentation) 
+ 2.1.2 Requirements Analysis: Use SCRUM features such as Product Backlog Items written in           User Story form, Sprint Tasks (this        section should be in detail as it is the SRS. Each item and sub item must be indexed so that it can be referenced again in              Assignment 2 while Software Design Documentation) 
   
- 2.1.3 Software Design: Architecture of web application, GUI design, process & workflow design, database design (mention this will be delivered as a milestone in the 2nd assessment, so do not provide in-depth details here) 
+ 2.1.3 Software Design: Architecture of web application, GUI design, process & workflow design, database design (mention this will be          delivered as a milestone in the 2nd assessment, so do not provide in-depth details here) 
  
  2.1.4 Analysis Review 
  
@@ -62,11 +61,11 @@ Table of Contents
  2.4.4 Document Editor 
 
 
-3. Managerial Process 
+ 3. Managerial Process 
 
-3.1 Management Objectives and Priorities 
+ 3.1 Management Objectives and Priorities 
  
-3.2 Assumptions, Dependencies and Constraints
+ 3.2 Assumptions, Dependencies and Constraints
  
  3.2.1 Assumptions 
   
